@@ -1038,6 +1038,50 @@ html body{ overflow:visible !important; overflow-x:clip !important; }
    it scrubs with the visitor's scroll while the headline floats on
    top. The old static mobile fallback hero is redundant with it.
    ============================================================ */
+/* ============================================================
+   HOMEPAGE STATIC HERO — replaces the scroll-scrub world video.
+   Brand lockup + claim + CTAs on the house green/gold gradient.
+   ============================================================ */
+.kp-hero-static{
+  position:relative; min-height:100vh; overflow:hidden;
+  display:flex; align-items:center; justify-content:center;
+  font-family:'Montserrat',sans-serif;
+  background:
+    radial-gradient(1100px 620px at 50% 32%, rgba(227,200,143,.16), transparent 68%),
+    linear-gradient(158deg,#023a34 0%,#012b28 46%,#001a17 78%,#001210 100%);
+}
+.kp-hero-static__overlay{
+  position:absolute; inset:0; z-index:1; pointer-events:none;
+  background:
+    radial-gradient(760px 760px at 78% 78%, rgba(143,208,193,.08), transparent 70%),
+    radial-gradient(620px 620px at 16% 22%, rgba(227,200,143,.10), transparent 72%);
+}
+.kp-hero-static__content{
+  position:relative; z-index:2; text-align:center; padding:120px 24px 90px;
+  max-width:900px;
+  opacity:0; transform:translateY(24px);
+  transition:opacity 1s ease .1s, transform 1s ease .1s;
+}
+.kp-hero-static.is-revealed .kp-hero-static__content{ opacity:1; transform:none; }
+.kp-hero-static__sub{
+  color:rgba(255,255,255,.80); font-weight:400;
+  font-size:clamp(15px,1.6vw,20px); line-height:1.6;
+  max-width:640px; margin:6px auto 34px;
+}
+.kp-hero-static__btns{ display:flex; gap:18px; flex-wrap:wrap; justify-content:center; }
+.kp-hero-static__btn{
+  display:inline-block; text-decoration:none;
+  color:#fff !important; border:1px solid rgba(255,255,255,.42); border-radius:55px;
+  padding:14px 40px; font-weight:600; font-size:15px; letter-spacing:.04em;
+  background:rgba(0,26,23,.30);
+  backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px);
+  transition:background .25s ease, color .25s ease, border-color .25s ease;
+}
+.kp-hero-static__btn:hover{ background:#e3c88f; border-color:#e3c88f; color:#012b28 !important; }
+@media (prefers-reduced-motion:reduce){
+  .kp-hero-static__content{ transition:none; }
+}
+
 .kp-hero-scrolly{ height:380vh; background:#001a17; }
 .kp-hero-scrolly__stage{
   position:absolute; inset:0; z-index:4;

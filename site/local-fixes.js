@@ -127,42 +127,23 @@
       return;
     }
 
+    // Static, on-theme hero — the scroll-scrub world video was removed; the
+    // brand lockup, claim and CTAs sit on the house green/gold gradient.
     var hero = document.createElement('section');
-    hero.className = 'kp-scrolly kp-hero-scrolly';
+    hero.className = 'kp-hero-static';
     hero.id = 'kp-hero';
     hero.innerHTML =
-      '<div class="kp-scrolly__sticky">' +
-      '<video class="kp-scrolly__video" data-scrub src="assets/home_video.mp4" muted playsinline preload="auto"></video>' +
-      '<div class="kp-hero-scrolly__overlay"></div>' +
-      '<div class="kp-scrolly__stage kp-hero-scrolly__stage">' +
-      '<div class="kp-journey__chapter kp-hero-brand" data-step>' +
+      '<div class="kp-hero-static__overlay" aria-hidden="true"></div>' +
+      '<div class="kp-hero-static__content">' +
       '<img class="kp-hero-brand__mark" src="assets/logo-mark.png" alt="Kastell Personalberatung">' +
       '<h1 class="kp-hero-brand__name">Kastell <span>Personalberatung</span></h1>' +
       '<span class="kp-hero-brand__rule" aria-hidden="true"></span>' +
       '<h2 class="kp-hero-brand__claim">Ihr Partner f&uuml;r Personalsuche &amp; HR Advisory.</h2>' +
-      '<p class="kp-journey__sub">Wir finden das Top-Match f&uuml;r Ihr Team &ndash; in IT, Engineering und Financial Services.</p>' +
+      '<p class="kp-hero-static__sub">Wir finden das Top-Match f&uuml;r Ihr Team &ndash; in IT, Engineering und Financial Services.</p>' +
+      '<div class="kp-hero-static__btns">' +
+      '<a class="kp-hero-static__btn" href="candidates.html">Ich bin Kandidat:in</a>' +
+      '<a class="kp-hero-static__btn" href="employers.html">Ich bin Arbeitgeber</a>' +
       '</div>' +
-      '<div class="kp-journey__chapter" data-step>' +
-      '<p class="kp-journey__eyebrow">Erfahrung, die z&auml;hlt</p>' +
-      '<h2 class="kp-journey__title">40 Jahre kombinierte Erfahrung.<br>Ein Netzwerk, das tr&auml;gt.</h2>' +
-      '<p class="kp-journey__sub">Vom Mittelstand bis zum Konzern &ndash; in Rhein-Neckar, Rhein-Main und bundesweit.</p>' +
-      '</div>' +
-      '<div class="kp-journey__chapter" data-step>' +
-      '<p class="kp-journey__eyebrow">Kastell Personalberatung</p>' +
-      '<h2 class="kp-journey__title">Menschen und Unternehmen.<br>Pr&auml;zise verbunden.</h2>' +
-      '<p class="kp-journey__sub">Personalberatung f&uuml;r IT, Engineering und Financial Services.</p>' +
-      '</div>' +
-      '<div class="kp-journey__chapter" data-step>' +
-      '<p class="kp-journey__eyebrow">Bereit f&uuml;r das Top-Match?</p>' +
-      '<h2 class="kp-journey__title">Wie k&ouml;nnen wir Sie unterst&uuml;tzen?</h2>' +
-      '<p class="kp-journey__sub">W&auml;hlen Sie Ihren Weg &ndash; wir k&uuml;mmern uns um den Rest.</p>' +
-      '<div class="kp-hero-scrolly__btns">' +
-      '<a class="kp-hero-scrolly__btn" href="candidates.html">Ich bin Kandidat:in</a>' +
-      '<a class="kp-hero-scrolly__btn" href="employers.html">Ich bin Arbeitgeber</a>' +
-      '</div>' +
-      '</div>' +
-      '</div>' +
-      '<div class="kp-scrolly__bar" aria-hidden="true"><span class="kp-scrolly__barfill"></span></div>' +
       '</div>';
     section.parentNode.replaceChild(hero, section);
 
@@ -176,7 +157,7 @@
     if (document.getElementById('kp-intro')) {
       // content fades in the moment the intro splash hands off
       document.addEventListener('kp:intro-done', reveal, { once: true });
-      setTimeout(reveal, 50000); // never leave the hero text hidden
+      setTimeout(reveal, 4000); // never leave the hero text hidden
     } else {
       reveal();
     }
