@@ -1,5 +1,21 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "outputDirectory": "site",
-  "trailingSlash": false
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/employers.html", "destination": "/arbeitgeber/", "permanent": true },
+    { "source": "/candidates.html", "destination": "/kandidaten/", "permanent": true },
+    { "source": "/about-us.html", "destination": "/ueber-uns/", "permanent": true },
+    { "source": "/projekte.html", "destination": "/projekte/", "permanent": true },
+    { "source": "/contact.html", "destination": "/kontakt/", "permanent": true },
+    { "source": "/assessments.html", "destination": "/leistungen/eignungsdiagnostik/", "permanent": true },
+    { "source": "/bg-global-recruitment.html", "destination": "/leistungen/internationale-rekrutierung/", "permanent": true },
+    { "source": "/contingency-multiple-hiring.html", "destination": "/leistungen/volumen-projektbesetzung/", "permanent": true },
+    { "source": "/world-connect.html", "destination": "/leistungen/employer-branding/", "permanent": true },
+    { "source": "/cv-writing-packages.html", "destination": "/karriere-services/bewerbungsunterlagen/", "permanent": true },
+    { "source": "/privacy-policy-2.html", "destination": "/datenschutz/", "permanent": true },
+    { "source": "/terms-of-use.html", "destination": "/nutzungsbedingungen/", "permanent": true }
+  ]
 }
