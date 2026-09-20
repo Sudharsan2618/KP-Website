@@ -1,0 +1,2567 @@
+{
+  "schema_version": 1,
+  "source_commit": "5938e76da55ba9acc06d4fd0b1908b76e664c46d",
+  "language": "de",
+  "pages": [
+    {
+      "source_file": "site/about-us.html",
+      "source_slug": "about-us",
+      "canonical_path": "/ueber-uns/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "PERSONALBERATUNG"
+        },
+        {
+          "tag": "h2",
+          "text": "Über uns"
+        },
+        {
+          "tag": "h2",
+          "text": "Wir sind Ihr Zugang zu Ihren künftigen Mitarbeitenden."
+        },
+        {
+          "tag": "h2",
+          "text": "Köpfe, die den Markt kennen."
+        },
+        {
+          "tag": "h3",
+          "text": "Marcus Opper"
+        },
+        {
+          "tag": "h3",
+          "text": "Benedict Hadjistojanov"
+        },
+        {
+          "tag": "h3",
+          "text": "Jennifer Opper"
+        },
+        {
+          "tag": "h2",
+          "text": "Lernen Sie Ihr Beraterteam kennen."
+        }
+      ],
+      "paragraphs": [
+        "Ihr Beraterteam für IT, Engineering & Financial Services – persönlich, erfahren, auf Augenhöhe.",
+        "Wer wir sind",
+        "Die Zahl offener Vakanzen für Fach- und Führungskräfte steigt seit Jahren stetig. Die Zeit zur Besetzung einer Vakanz in IT oder Engineering beträgt nach aktuellen Umfragen mittlerweile über sieben Monate.",
+        "Umso größer wird der Einfluss kompetenter Personalberater, die den Markt kennen. Unsere Berater nehmen sich Zeit für den persönlichen Austausch in Ihrem Hause und entwickeln ein Verständnis für Ihre Unternehmenskultur.",
+        "Jahrelange Erfahrung und Augenhöhe im Dialog mit Ihrem Management zeichnen uns aus. Das Ergebnis ist ein Top-Match in Ihrem Team — wir begleiten Sie über Jahre als verlängerter Arm in den Kandidatenmarkt.",
+        "Das Beraterteam",
+        "Drei Berater, ein Anspruch: Executive Search auf Augenhöhe — geprägt von jahrzehntelanger Erfahrung bei den führenden Namen der Branche.",
+        "01",
+        "Personalberatung — IT, Engineering & Finance",
+        "Begann seine Karriere nach Jura-Studium und Referendariat im Jahr 2000 bei der HAYS AG in Mannheim, Zürich und Frankfurt — zunächst in der Projektbesetzung, dann in der Personalberatung IT, Engineering und Finance.",
+        "Nach Managementfunktionen u. a. bei Manpower (Prokurist), SOLCOM (Niederlassungsleiter), ALLGEIER Experts (Geschäftsführer) und GULP liegt sein Fokus heute auf Fach- und Führungskräften in Handel, Industrie und IT.",
+        "02",
+        "Executive Search & IT-Personalberatung",
+        "Seit 2014 in der IT-zentrierten Personalberatung tätig — Erfahrungen im Executive Search u. a. bei einer global operierenden britischen Beratung sowie einem der Marktführer der Branche.",
+        "Nach dem Studium Berater und Team Supervisor IT bei Antal International, anschließend in der ALLGEIER Gruppe sowie bei GULP mit voller Verantwortung für Executive Searches.",
+        "Bei KASTELL betreut er DACH-weit Fach- und Führungsmandate im IT-Bereich. Seine Leidenschaft gilt dem klassischen Headhunting und der Beratung beider Parteien.",
+        "03",
+        "Identifikation & Ansprache Fach- & Führungskräfte",
+        "Startete 2019 als Personalberaterin im Bereich Engineering und Embedded Software bei eSAR, das 2021 in GULP bzw. Randstad Professionals aufging.",
+        "Im weiteren Verlauf verlagerte sich ihr Fokus in die IT — zu Fach- und Führungskräften im Umfeld verschiedener ERP-Applikationen und zunehmend in Richtung SAP.",
+        "Bei KASTELL verantwortet sie die Identifikation und Ansprache von Fach- und Führungskräften für die Besetzung der laufenden Mandate.",
+        "Kontakt",
+        "Haben Sie Fragen oder möchten Sie ein persönliches Gespräch vereinbaren? Wir freuen uns auf Ihren Austausch.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "mailto:admin@kastellpersonalberatung.com",
+          "text": "admin@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "tel:+4916090678718",
+          "text": "+49 (0) 160 90678718",
+          "kind": "external"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontaktseite besuchen",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/image1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/image2.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/image3.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/assessments.html",
+      "source_slug": "assessments",
+      "canonical_path": "/leistungen/eignungsdiagnostik/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "PERSONALBERATUNG"
+        },
+        {
+          "tag": "h2",
+          "text": "Eignungsdiagnostik"
+        },
+        {
+          "tag": "h5",
+          "text": "Sprechen Sie uns an – und machen Sie den nächsten Schritt zu Ihren unternehmerischen Zielen."
+        }
+      ],
+      "paragraphs": [
+        "Vereinbaren Sie ein Gespräch mit unseren Berater:innen.",
+        "Kastell Personalberatung setzt auf moderne, fundierte Eignungsdiagnostik. Verhaltens- und Persönlichkeitsanalysen helfen unseren Kunden, die Treffsicherheit ihrer Einstellungen zu erhöhen sowie Kosten und Zeit im Auswahlprozess zu reduzieren – und steigern die Wahrscheinlichkeit, die passende Person zu gewinnen.",
+        "Sie reduzieren nicht nur das Risiko einer Fehlbesetzung – die gewonnenen Erkenntnisse über künftige und bestehende Mitarbeitende unterstützen Sie auch bei Onboarding, Teamentwicklung und Nachfolgeplanung.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "assessments.html",
+          "text": "Schedule time with us",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/bg-global-recruitment.html",
+      "source_slug": "bg-global-recruitment",
+      "canonical_path": "/leistungen/internationale-rekrutierung/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "PERSONALBERATUNG"
+        },
+        {
+          "tag": "h2",
+          "text": "Internationale Rekrutierung"
+        },
+        {
+          "tag": "h5",
+          "text": "Wir verbinden qualifizierte Fachkräfte aus internationalen Märkten mit großartigen Unternehmen in Deutschland. Genau das können wir am besten."
+        }
+      ],
+      "paragraphs": [
+        "Vereinbaren Sie ein Gespräch mit unseren Berater:innen.",
+        "Vertrauen Sie auf erfahrene Personalberater mit zusammen über 40 Jahren Erfahrung – tausende betreute Kandidat:innen, hunderte Unternehmen, zahlreiche Branchen in Deutschland",
+        "Unser Bereich Internationale Rekrutierung bietet integrierte, maßgeschneiderte Lösungen für die Gewinnung internationaler Fachkräfte. Wir vertreten die Interessen unserer Kandidat:innen und Kunden gleichermaßen.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "bg-global-recruitment.html",
+          "text": "Schedule time with us",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/big-Global-Recruitment-1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/big-Global-Recruitment-1.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/candidates.html",
+      "source_slug": "candidates",
+      "canonical_path": "/kandidaten/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "LEISTUNGEN FÜR KANDIDAT:INNEN"
+        },
+        {
+          "tag": "h4",
+          "text": "Entdecken Sie, was Kastell Personalberatung für Sie tun kann."
+        },
+        {
+          "tag": "h3",
+          "text": "Stellen entdecken"
+        },
+        {
+          "tag": "h3",
+          "text": "Unser Kandidaten-Netzwerk"
+        },
+        {
+          "tag": "h3",
+          "text": "Karriere-Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Eignungsdiagnostik"
+        },
+        {
+          "tag": "h6",
+          "text": "STIMMEN VON KANDIDAT:INNEN"
+        },
+        {
+          "tag": "h5",
+          "text": "Product Manager"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading Tech Business"
+        },
+        {
+          "tag": "h5",
+          "text": "Sales Manager"
+        },
+        {
+          "tag": "h6",
+          "text": "Retail Business"
+        },
+        {
+          "tag": "h5",
+          "text": "Architect / Business Development"
+        },
+        {
+          "tag": "h6",
+          "text": "Interior Design Company"
+        },
+        {
+          "tag": "h5",
+          "text": "Copywriter"
+        },
+        {
+          "tag": "h6",
+          "text": "Creative Agency"
+        },
+        {
+          "tag": "h5",
+          "text": "HR Professional"
+        },
+        {
+          "tag": "h5",
+          "text": "Chief Editor"
+        },
+        {
+          "tag": "h5",
+          "text": "Communications & PR Manager"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading Group of Companies"
+        },
+        {
+          "tag": "h5",
+          "text": "Facility Manager"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading Group of Companies"
+        },
+        {
+          "tag": "h5",
+          "text": "Sr. Credit Analyst"
+        },
+        {
+          "tag": "h6",
+          "text": "DAX-Konzern"
+        },
+        {
+          "tag": "h3",
+          "text": "Starten Sie noch heute Ihre Jobsuche!"
+        },
+        {
+          "tag": "h2",
+          "text": "Kastell Personalberatung"
+        }
+      ],
+      "paragraphs": [
+        "Wir besetzen für führende Unternehmen in Deutschland. Sehen Sie sich unsere aktuellen Projekte an und finden Sie die passende Position.",
+        "Werden Sie noch heute Teil unseres Netzwerks – wir halten Sie zu passenden Karrierechancen auf dem Laufenden.",
+        "Ein starker Lebenslauf ist der erste Schritt zu Ihrem Wunschjob. Unsere Berater:innen prüfen Ihren Lebenslauf kostenlos und geben Ihnen konkretes Feedback für Ihre optimale Positionierung im Markt.",
+        "Verstehen Sie Ihre Stärken und Ihr Verhaltensprofil – und kommunizieren Sie wirkungsvoller im Team. Mit fundierter Eignungsdiagnostik für Ihren nächsten Karriereschritt.",
+        "“Riya helped me land a job as a product designer at a company that’s a perfect fit for me. She was considerate in helping me find an ideal match and attentive throughout the process, even once I’d started in the role. Thank you”",
+        "“When I was contacted by Axah for a job opportunity I honestly did not put my expectations too high as based on my past experiences with other headhunters it usually starts and ends only with their initial interviews. So I was actually surprised when the next day I got another call from her asking me to go for the interview with the employer. The process was fast and efficient. I’m so happy after 9 months of job hunting I finally got the job that is right for me. I really appreciate how Axah guided me throughout the recruitment process.”",
+        "“Priyanka helped me find a better opportunity and was very supportive and professional throughout the process. I really appreciate her efforts and highly recommend working with her.”",
+        "“unser Berater got in touch with me on the very 1st day my profile was submitted for an exciting Arabic Creative Copywriter vacancy and a systematic recruitment process followed – I have the job now. He proved to be organized, punctual and always caring about my needs as a candidate. Thank God there are still such nice people around us. I hope I get to work with him someday.”",
+        "“I’ve known unser Berater since 2013 and its always a pleasure speaking with him or having a brief chat on recruitment or industry trends in the MEA region. He’s always been very positive; well-connected and has in-depth knowledge of the industry he deals with. I had approached unser Berater again when I was recently looking for a potential opportunity and unser Berater got me connected to the company I’m now working for. He had been there all along right from the interview stage to keeping me posted of the updates post interview and was always been available for any assistance I needed. He knows the clients he deals with very well and he brands them very well – an important quality of a very good recruiter. unser Berater is an exceptional professional and no matter what he chooses to take on he will be absolutely good at it. ”",
+        "“Its a great pleasure writing this recommendation for unser Berater. He is a smart person, with a very positive attitude, who instills a lot of confidence and hope in people. In all my interactions with him, he has always displayed great manners, professional ethics and punctuality. Those I think are some of the most important qualities of a recruitment consultant, and he is one of the best, I know around this region. I had approached unser Berater last year for a suitable employment opportunity for me. unser Berater not only got me some really good interviews, but he also made sure that he was always available during that phase of career transition. He is indeed an asset for the company and I would like to wish him the very best for his future. I have no doubts that he will shine in any industry, he chooses to be associated with. Good luck! ”",
+        "“Having worked with unser Berater in the past few months has been an absolute pleasure. I had been approached by many headhunters in the past but the process and the journey unser Berater took me through was extremely rewarding, smooth and flawless. He kept me abreast of the entire process at all times and found me a great opportunity that perfectly fits my expertise.”",
+        "“It was great to be represented by Vijithra during my recent job hunt. She consistently demonstrated a solid recruitment process and got me the offer. She is a diligent, friendly and very capable recruitment consultant representing some really good organizations across Deutschland. Vijithra was genuinely interested in my career aspirations and I liked her sincerity during our discussions. Always kept me updated on the recruitment status and guided me through the recruitment process as per schedule. I would always recommend Vijithra to anyone in need of a new job or looking to hire. I’m happy I got the chance to interact with her.”",
+        "“Just when I was searching for a good opportunity for my career, Ayesha reached out to me with a perfect and suitable opening. Right from the preliminary round till the final offer letter getting signed, she was very supportive. She would answer all my queries and doubts with a calm and composed manner. She is very informative in her approach and has good people, interpersonal and communication skills and thanks to her, I got the perfect opportunity. I wish her all the very best for her future endeavors.”",
+        "We believe most human interactions are not black & white – there are no right answers or standard recruitment processes that will hold true for all situations. Talented people have wonderful variables and aspirations at every stage of their career. To strike the right balance and effectively manage the grey areas of recruitment, we invest time and follow a humanized yet progressive recruitment and selection process that redefines the way you look at ‘experience’ in the recruitment process.",
+        "We are recruiting for DAX-Konzern’s, leading local organizations, small and medium-sized enterprises in Deutschland.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "candidates.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "projekte.html",
+          "text": "Aktuelle Projekte",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "Netzwerk beitreten",
+          "kind": "external"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "Kostenloser CV-Check",
+          "kind": "external"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "Kostenlose Erstberatung",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "Unser Kandidaten-Netzwerk",
+          "kind": "external"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "kontakt@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "www.kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kastell-personalberatung/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.instagram.com/kastell.personal/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.xing.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "data:image/svg+xml;charset=utf-8,<svg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 387 533'%2F>"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/34w.jpg"
+        }
+      ]
+    },
+    {
+      "source_file": "site/contact.html",
+      "source_slug": "contact",
+      "canonical_path": "/kontakt/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Kastell Personalberatung"
+        }
+      ],
+      "paragraphs": [
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "index.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "mailto:m.opper@kastellpersonalberatung.com",
+          "text": "m.opper@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "mailto:b.hadjistojanov@kastellpersonalberatung.com",
+          "text": "b.hadjistojanov@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "www.kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kastell-personalberatung/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.instagram.com/kastell.personal/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.xing.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/contingency-multiple-hiring.html",
+      "source_slug": "contingency-multiple-hiring",
+      "canonical_path": "/leistungen/volumen-projektbesetzung/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "PERSONALBERATUNG"
+        },
+        {
+          "tag": "h2",
+          "text": "Volumen- & Projektbesetzung"
+        },
+        {
+          "tag": "h5",
+          "text": "Sprechen Sie uns an – und machen Sie den nächsten Schritt zu Ihren unternehmerischen Zielen."
+        }
+      ],
+      "paragraphs": [
+        "Vereinbaren Sie ein Gespräch mit unseren Berater:innen.",
+        "Unser Projektteam ist erfahren in der parallelen Besetzung mehrerer Positionen – mit klarer Projektplanung und belastbarer Kandidaten-Pipeline. So gewinnen Sie qualifizierte Fach- und Führungskräfte aus dem regionalen wie internationalen Markt. Wir haben zahlreiche Projekte mit 10+ Vakanzen umgesetzt, halten unsere Prozesse vollständig transparent und informieren Sie mit regelmäßigen Reports. Wir arbeiten als verlängerter Arm Ihres Teams und besetzen passgenau zu Ihrer Kultur.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contingency-multiple-hiring.html",
+          "text": "Schedule time with us",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/cv-writing-packages.html",
+      "source_slug": "cv-writing-packages",
+      "canonical_path": "/karriere-services/bewerbungsunterlagen/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Bewerbungsunterlagen, die überzeugen WÄHLEN SIE DAS PASSENDE PAKET FÜR IHRE ERFAHRUNGSSTUFE."
+        },
+        {
+          "tag": "h5",
+          "text": "(0–3 JAHRE ERFAHRUNG)"
+        },
+        {
+          "tag": "h5",
+          "text": "(4–10 JAHRE ERFAHRUNG)"
+        },
+        {
+          "tag": "h5",
+          "text": "(10+ JAHRE ERFAHRUNG)"
+        },
+        {
+          "tag": "h3",
+          "text": "SCHRITT 1"
+        },
+        {
+          "tag": "h3",
+          "text": "SCHRITT 2"
+        },
+        {
+          "tag": "h3",
+          "text": "SCHRITT 3"
+        },
+        {
+          "tag": "h3",
+          "text": "SCHRITT 4"
+        }
+      ],
+      "paragraphs": [
+        "Wir melden uns unmittelbar nach Ihrer Anfrage per E-Mail bei Ihnen.",
+        "EUR550",
+        "Ideal für Berufseinsteiger:innen und Young Professionals.",
+        "Der Arbeitsmarkt für Berufseinsteiger:innen ist anspruchsvoll. Wenn Ihr Lebenslauf aussieht wie jeder andere, ist es schwer, aufzufallen. Mit professionell aufbereiteten, individuell gebrandeten Unterlagen präsentieren Sie sich Ihren Wunscharbeitgebern im besten Licht.",
+        "EUR735",
+        "Ideal für erfahrene Fachkräfte.",
+        "Der Markt hat sich stark verändert – ein Lebenslauf, der nicht ATS-tauglich ist oder branchenspezifische Keywords vermissen lässt, geht schnell unter. Wenn Sie den nächsten Karriereschritt gehen wollen, machen wir Ihre Unterlagen wirksam.",
+        "EUR1100",
+        "Ideal für Senior Professionals und Führungskräfte.",
+        "Sie haben mehr geleistet, als auf ein Blatt passt. Wir helfen erfahrenen Fach- und Führungskräften, Erfahrung und Wirkung klar herauszustellen – damit potenzielle Arbeitgeber genau das sehen.",
+        "Wir arbeiten nach einem klaren, transparenten Prozess mit kontinuierlicher Abstimmung über den gesamten Ablauf.",
+        "Sie beauftragen uns und teilen uns die Details zu Ihrem Profil mit.",
+        "Wir wählen das passende Format und erstellen einen Fahrplan zur Abstimmung mit Ihnen.",
+        "Nach Ihrer Freigabe erstellen wir gemäß Fahrplan den ersten Entwurf.",
+        "Wir finalisieren mit Ihren Anmerkungen und liefern innerhalb von 6 bis 7 Werktagen.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "candidates.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kostenloses Erstgespräch",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kostenloses Erstgespräch",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kostenloses Erstgespräch",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/2.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/2.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/3.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/3.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/4.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/4.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/employers.html",
+      "source_slug": "employers",
+      "canonical_path": "/arbeitgeber/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "A talent acquisition consultancy that can redefine the concept of ‘experience’ in the recruitment process & build great employer brands"
+        },
+        {
+          "tag": "h4",
+          "text": "Eine Personalberatung, die das Top-Match für Ihr Team findet – und Ihre Arbeitgebermarke stärkt."
+        },
+        {
+          "tag": "h2",
+          "text": "Kastell Personalberatung weiß, dass IT, Engineering und Financial Services um die besten Köpfe konkurrieren. Mit 40 Jahren kombinierter Erfahrung, tiefem Marktwissen und einem strukturierten, persönlichen Auswahlprozess erhöhen wir die Wahrscheinlichkeit, dass Sie genau die Spezialist:innen gewinnen, die zu Ihrem Team passen – vom Mittelstand bis zum Konzern, in Rhein-Neckar, Rhein-Main und bundesweit."
+        },
+        {
+          "tag": "h6",
+          "text": "UNSERE LEISTUNGEN"
+        },
+        {
+          "tag": "h2",
+          "text": "Passgenaue Besetzung – fachlich, persönlich und kulturell."
+        },
+        {
+          "tag": "h3",
+          "text": "Executive Search"
+        },
+        {
+          "tag": "h3",
+          "text": "Volumen- & Projektbesetzung"
+        },
+        {
+          "tag": "h3",
+          "text": "HR Advisory"
+        },
+        {
+          "tag": "h3",
+          "text": "Employer Branding"
+        },
+        {
+          "tag": "h3",
+          "text": "Internationale Rekrutierung"
+        },
+        {
+          "tag": "h3",
+          "text": "Eignungsdiagnostik"
+        },
+        {
+          "tag": "h6",
+          "text": "WARUM KASTELL ?"
+        },
+        {
+          "tag": "h2",
+          "text": "Passgenaue Besetzung – fachlich, persönlich und kulturell."
+        },
+        {
+          "tag": "h6",
+          "text": "KUNDENSTIMMEN"
+        },
+        {
+          "tag": "h5",
+          "text": "HR- & Talent-Manager:in"
+        },
+        {
+          "tag": "h6",
+          "text": "Large Local Group"
+        },
+        {
+          "tag": "h5",
+          "text": "HRBP"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading tire and rubber company"
+        },
+        {
+          "tag": "h5",
+          "text": "Chief Commercial Officer"
+        },
+        {
+          "tag": "h6",
+          "text": "Aviation Service Provider"
+        },
+        {
+          "tag": "h5",
+          "text": "Sr. Talent Acquisition Specialist"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading professional services firm"
+        },
+        {
+          "tag": "h5",
+          "text": "Team Lead"
+        },
+        {
+          "tag": "h6",
+          "text": "Talent Acquisition & Human Capital, Leading Government Services Company"
+        },
+        {
+          "tag": "h5",
+          "text": "Head of HR"
+        },
+        {
+          "tag": "h6",
+          "text": "Leading German Automotive Brands"
+        },
+        {
+          "tag": "h5",
+          "text": "Senior HR Professional"
+        },
+        {
+          "tag": "h6",
+          "text": "Entertainment & Leisure Startup"
+        },
+        {
+          "tag": "h3",
+          "text": "Regionen, aus denen wir rekrutieren"
+        },
+        {
+          "tag": "h3",
+          "text": "Regionen, in denen wir besetzen"
+        },
+        {
+          "tag": "h6",
+          "text": "LET'S MAKE THIS WORK"
+        },
+        {
+          "tag": "h2",
+          "text": "Sprechen wir darüber, wie wir Ihr Unternehmen dabei unterstützen, die richtigen Fachkräfte zu gewinnen."
+        },
+        {
+          "tag": "h2",
+          "text": "TERMIN VEREINBAREN"
+        },
+        {
+          "tag": "h2",
+          "text": "Kastell Personalberatung"
+        }
+      ],
+      "paragraphs": [
+        "Wir besetzen Schlüssel- und Führungspositionen über gezielte Direktansprache – diskret, schnell und zielsicher.",
+        "Erfahren in der parallelen Besetzung mehrerer Positionen – mit klarer Projektplanung und belastbarer Kandidaten-Pipeline.",
+        "Wir beraten Sie ganzheitlich bei Recruiting-Strategie, Prozessen und der Organisation Ihrer Personalgewinnung.",
+        "Wir helfen Ihnen, als attraktive Arbeitgebermarke sichtbar zu werden und die richtigen Talente anzusprechen.",
+        "Wir verbinden qualifizierte Fachkräfte aus internationalen Märkten mit großartigen Unternehmen in Deutschland.",
+        "Reduzieren Sie das Risiko einer Fehlbesetzung – mit fundierter Eignungsdiagnostik für Bewerber:innen und Mitarbeitende.",
+        "“It has been excellent working together with unser Berater und sein Team. Broad-minded, reliable extended hiring partner! His exceptional workflow, skills, creativity and knowledge of change requests made us choose Kastell-Team over others. He always has an easiness to build interpersonal relations with others. His leadership and organizational skills have been valued by us. He & his team has helped us close some of the key positions. unser Berater will find a way to weather any storm with a smile. Experiencing his fast and sharp mind at work is most remarkable. We look forward to working with unser Berater on a long-term basis and I am certain he and his team will be able to find the right solution. In the current market experience, we rarely find partners who understands what is exactly required for business continuity.”",
+        "“unser Berater is a true professional, head and shoulders above most recruiters across various industries in Deutschland. He listens, and delivers timely and poignantly, adjusts his approach to any feedback received, is tenacious, and most importantly, cares about each and every “transaction” because it is so much more to him than that. Always demonstrated utmost integrity, coupled with a caring approach. A pleasure to work with, grateful to our partnership.”",
+        "“Vijithra is highly professional HR specialist with full understanding of client’s needs. I do recommend dealing with her, if you want to get superb HR / Talent Acquisition services.”",
+        "“unser Berater is fantastic to work with. I have known him since 2014 and have been working with Kastell Personalberatung for more than a year now. He possesses deep knowledge of the various industry sectors he caters and works well with a wide network of well-qualified individuals across a range of job disciplines. What I value the most is that he always listens and comes back with great recommendations on the right fit for our business. Having a partnership with unser Berater and Kastell Personalberatung has significantly improved our time-to-hire on hard-to-fill key roles over the past 1 year. He is always there to help throughout the process. I wouldn’t hesitate to recommend unser Berater or Kastell Personalberatung when recruiting new staff or even for anyone looking for a new career change.”",
+        "“I had the opportunity to work with Mr. unser Berater. He is excellent at reading the skills and personal attributes and finding the perfect fit. He is thorough in communicating the needs of his clients to the recruiter and setting expectations on both sides of the aisle. He is also professional at recognizing how past experiences which are not literally identical can still be applied to new positions with similar qualities. His preparation and screening abilities are excellent which help create the win-win in the end for all parties involved”",
+        "“unser Berater is the most impressive recruitment consultant I have dealt with in my career. unser Berater has been professional and very thorough throughout the whole process of recruitment. He was very approachable and always made sure to keep in touch and informed me at all stages. I found it really easy to talk to him and he clearly understood the type of roles that I was looking for, he made sure that he found me the best fit. I am really impressed by his friendly and dedicated approach. I would have no hesitation in recommending unser Berater to anyone and would definitely urge anyone looking for work to contact him.”",
+        "“unser Berater is a highly efficient professional in recruitment. It’s always tricky to select an agency for your hiring needs but I’m delighted we found unser Berater at Kastell Personalberatung. Every time I had a position to fill, the candidates put forward by him turned out to be the best for the job. I was particularly impressed by him not swamping me with CVs but only forwarding those people who were likely to be a good fit. He is superbly motivated, with a wonderful positive energy to work alongside with”",
+        "Wir rekrutieren bundesweit und sprechen Spezialist:innen auch international an – mit tiefem Verständnis für den deutschen Fachkräftemarkt.",
+        "Rhein-Neckar",
+        "Rhein-Main",
+        "Baden-Württemberg",
+        "Hessen",
+        "Bayern",
+        "Bundesweit",
+        "Vereinbaren Sie ein Gespräch mit unseren Berater:innen.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Persönlich / Telefon / Video",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "kontakt@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "www.kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.linkedin.com/company/kastell-personalberatung/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.instagram.com/kastell.personal/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.xing.com/",
+          "text": "",
+          "kind": "external"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/4.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/7.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/2.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/5.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/revslider/3.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/03/6.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/phone-1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/phone-1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/01/050-cogs-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/01/050-cogs-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/2-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/2-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/3-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/3-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/4-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/4-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/5-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/5-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/6-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/6-150x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2019/12/map-bg.jpg"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2019/12/map-bg.jpg"
+        }
+      ]
+    },
+    {
+      "source_file": "site/index.html",
+      "source_slug": "index",
+      "canonical_path": "/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Wir finden das Top-Match für Ihr Team in IT, Engineering und Financial Services."
+        },
+        {
+          "tag": "h5",
+          "text": "Ihr Partner für Personalsuche & HR Advisory."
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "index.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Ich bin Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Ich bin Kandidat:in",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Ich bin Kandidat:in",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Ich bin Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        }
+      ],
+      "media": [
+        {
+          "kind": "video",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/ff-bg3a-1.mp4"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "source",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/ff-bg3a-1.mp4"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-8.45.40-AM-1.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-8.45.40-AM-1.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/privacy-policy-2.html",
+      "source_slug": "privacy-policy-2",
+      "canonical_path": "/datenschutz/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "h3",
+          "text": "Privacy Policy for Kastell Personalberatung"
+        },
+        {
+          "tag": "h2",
+          "text": "1. WHO WE ARE"
+        },
+        {
+          "tag": "h2",
+          "text": "2. INFORMATION ABOUT VISITORS TO OUR WEBSITES"
+        },
+        {
+          "tag": "h2",
+          "text": "3. COLLECTION OF YOUR PERSONAL INFORMATION"
+        },
+        {
+          "tag": "h2",
+          "text": "4. HOW WE USE YOUR PERSONAL INFORMATION"
+        },
+        {
+          "tag": "h2",
+          "text": "5. DISCLOSING INFORMATION"
+        },
+        {
+          "tag": "h2",
+          "text": "6. SECURITY"
+        },
+        {
+          "tag": "h2",
+          "text": "7. RETENTION"
+        },
+        {
+          "tag": "h2",
+          "text": "9. CHANGES TO THIS PRIVACY STATEMENT"
+        },
+        {
+          "tag": "h2",
+          "text": "10. CONSENT"
+        },
+        {
+          "tag": "h2",
+          "text": "11. QUESTIONS"
+        },
+        {
+          "tag": "h4",
+          "text": "Log Files"
+        },
+        {
+          "tag": "h4",
+          "text": "Cookies and Web Beacons"
+        },
+        {
+          "tag": "h4",
+          "text": "Google DoubleClick DART Cookie"
+        },
+        {
+          "tag": "h4",
+          "text": "Privacy Policies"
+        },
+        {
+          "tag": "h4",
+          "text": "Third Party Privacy Policies"
+        },
+        {
+          "tag": "h4",
+          "text": "Children’s Information"
+        },
+        {
+          "tag": "h4",
+          "text": "Online Privacy Policy Only"
+        }
+      ],
+      "paragraphs": [
+        "We are Kastell Personalberatung. This privacy statement is made by us. We are registered in Deutschland.",
+        "References to “we”, “us”, “our” and “ours” in this privacy statement means Kastell Personalberatung.",
+        "We gather general information about the use of our websites, such as which areas users visit most frequently and which services users access the most. We only use aggregated data when analyzing usage patterns of our website and cannot identify individual visitors to our websites. This information helps us determine what is most beneficial for our users and how we can continually create a better overall online experience. We may share this general information with our business partners so that they too may understand how our websites are used.",
+        "Guest users of our websites If you are not registered with us, the information we collect about you is limited. Please refer to the preceding paragraph which details the anonymous information that we collect.",
+        "Registered users When you register with Kastell Personalberatung, either online via one of our websites or in person at one of our offices, then you are giving us permission to use your personal data to consider you for opportunities related to our services in conjunction with our clients, and to share those data with our clients. We may ask for certain information from you, including, but not limited to: your name, address, email address, date of birth, gender, education, skills and qualifications, employment history (including remuneration details), references, job requirements (including location, salary sought, job industry, job title) plus any other information you may volunteer to us as part of the registration process or which is contained in your resume/CV.",
+        "Inquiry form/email inquiries If you are an employer and would like to make an inquiry with Kastell Personalberatung consultant via email on kontakt@kastellpersonalberatung.com, we may collect certain information from you, including, but not limited to: your name, your job title, your company name, your email address, your phone number, plus any other information you may volunteer to us as part of your inquiry.",
+        "If you are a recruitment candidate and would like to make an inquiry with a Kastell Personalberatung consultant via email, we may collect certain information from you, including your name and email address, plus any other information you may volunteer to us as part of your inquiry.",
+        "The information you provide to us or that we hold about you is stored, where applicable, in a secure cloud server, electronically in our databases. We will only process your information in the ways we describe in this privacy statement. If you think the information we hold about you is incorrect, you can contact us to correct it.",
+        "We reserve the right to delete any sensitive personal information which you may provide to us.",
+        "You can browse our websites, and search for jobs without disclosing personal information about yourself. ‘Personal information’ means any information that may be used to identify you, examples of which are mentioned in the preceding paragraphs.",
+        "We will use your personal information to fulfil your requests for information and to provide you with recruitment services you have requested. We will only process information that is adequate, relevant and not excessive for those purposes. Where we send you information, it may be sent by e-mail or post, for any of the following purposes:",
+        "to inform you of new services we will be providing;",
+        "to send you requested information on our services;",
+        "for research or marketing purposes; or",
+        "to administer our websites to help us improve our services.",
+        "You may also wish to write to us at the address given in paragraph 11 ‘Questions’.",
+        "If you choose to unsubscribe from our mailing lists, we will require sufficient identity details to ensure that we do not contact you again.",
+        "Kastell Personalberatung will not disclose the personal information that you provide or details of your individual visits to our websites to any unrelated third parties except as provided for in this privacy statement and under the following limited circumstances:",
+        "as necessary for job applications or other recruitment services that you have requested, with your consent;",
+        "when we believe the law requires it;",
+        "in order to provide you with the information or services which you have requested, your personal information may occasionally be transferred or shared with third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your personal information in order to support our information technology, to handle mailings on our behalf, or to provide services that you or our clients have requested (such as reference, qualification and criminal reference checking services, psychometric evaluations or skills tests);",
+        "to third parties who perform functions on our behalf and who also provide services to us (such as professional advisors, IT consultants carrying out testing and development work on our business technology systems, research and mailing houses and function co-ordinators);",
+        "we may share, transfer or disclose the personal information in our databases and server logs in the event of our flotation on a stock exchange, sale, merger, reorganization, dissolution, disposal of all or part of our assets or similar event. We will inform you of any such transfer or disclosure as required by law.",
+        "Where appropriate, before disclosing personal data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.",
+        "Kastell Personalberatung is committed to protecting the security of your personal information. We use a variety of measures (including, but not limited to, firewalls SSL encryption) to ensure that your personal information is protected from:",
+        "unauthorized access;",
+        "improper use or disclosure;",
+        "unauthorized modification or alteration; and",
+        "unlawful destruction or accidental loss.",
+        "However, the Internet is an open system and Kastell Personalberatung cannot guarantee that the personal information you submit will not be intercepted by others.",
+        "All our employees and agents who have access to or are involved in the processing of personal information respect the confidentiality of personal information.",
+        "Our websites may include links to external websites operated by other organizations. They may collect personal information from visitors to their site. Kastell Personalberatung cannot guarantee the content or privacy practices of any external websites and does not accept responsibility for those websites.",
+        "We will hold your personal information for a period of 24 months in order to comply with relevant employment law or as long as is necessary for the provision of recruitment services by us, whichever is the greater. We will not keep your personal information for longer than is necessary.",
+        "If we decide to change our privacy commitment, we will post those changes on our websites so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.",
+        "By accessing the websites and/or submitting your personal information, you consent to the use of your information as set out in this privacy statement.",
+        "If you have any questions about how your personal information is used, or if you want to access, correct or remove your personal information, please send an email to kontakt@kastellpersonalberatung.com.",
+        "Kastell Personalberatung Website follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.",
+        "Like any other website, Kastell Personalberatung Website uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.",
+        "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Kastell Personalberatung Website, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
+        "Note that Kastell Personalberatung Website has no access to or control over these cookies that are used by third-party advertisers.",
+        "Kastell Personalberatung Website’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.",
+        "You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?",
+        "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.",
+        "Kastell Personalberatung Website does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+        "This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Kastell Personalberatung Website. This policy is not applicable to any information collected offline or via channels other than this website.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "index.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#content",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "https://www.kastellpersonalberatung.com/",
+          "text": "career page",
+          "kind": "external"
+        },
+        {
+          "href": "mailto:kontakt@kastellpersonalberatung.com",
+          "text": "kontakt@kastellpersonalberatung.com",
+          "kind": "external"
+        },
+        {
+          "href": "https://policies.google.com/technologies/ads",
+          "text": "https://policies.google.com/technologies/ads",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.privacypolicygenerator.info/",
+          "text": "Privacy Policy Generator",
+          "kind": "external"
+        },
+        {
+          "href": "https://www.privacypolicyonline.com/",
+          "text": "Privacy Policy Generator Online",
+          "kind": "external"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/projekte.html",
+      "source_slug": "projekte",
+      "canonical_path": "/projekte/",
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "paragraphs": [
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/terms-of-use.html",
+      "source_slug": "terms-of-use",
+      "canonical_path": "/nutzungsbedingungen/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Terms of Use"
+        },
+        {
+          "tag": "h3",
+          "text": "Terms and Conditions"
+        },
+        {
+          "tag": "h4",
+          "text": "Interpretation"
+        },
+        {
+          "tag": "h4",
+          "text": "Definitions"
+        },
+        {
+          "tag": "h4",
+          "text": "Acknowledgement"
+        },
+        {
+          "tag": "h4",
+          "text": "Links to Other Websites"
+        },
+        {
+          "tag": "h4",
+          "text": "Termination"
+        },
+        {
+          "tag": "h4",
+          "text": "Limitation of Liability"
+        },
+        {
+          "tag": "h4",
+          "text": "“AS IS” and “AS AVAILABLE” Disclaimer"
+        },
+        {
+          "tag": "h4",
+          "text": "Governing Law"
+        },
+        {
+          "tag": "h4",
+          "text": "Disputes Resolution"
+        },
+        {
+          "tag": "h4",
+          "text": "For European Union (EU) Users"
+        },
+        {
+          "tag": "h4",
+          "text": "United States Legal Compliance"
+        },
+        {
+          "tag": "h4",
+          "text": "Severability"
+        },
+        {
+          "tag": "h4",
+          "text": "Waiver"
+        },
+        {
+          "tag": "h4",
+          "text": "Translation Interpretation"
+        },
+        {
+          "tag": "h4",
+          "text": "Changes to These Terms and Conditions"
+        },
+        {
+          "tag": "h4",
+          "text": "Contact Us"
+        }
+      ],
+      "paragraphs": [
+        "Last updated: December 22, 2019",
+        "Please read these terms and conditions carefully before using Our Service.",
+        "The words of which the initial letter is capitalized have meanings defined under the following conditions.",
+        "The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.",
+        "For the purposes of these Terms and Conditions:",
+        "Affiliate means an entity that controls, is controlled by or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.",
+        "Company (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Kastell Personalberatung, Mannheim, Deutschland.",
+        "Country refers to: Deutschland",
+        "Service refers to the Website.",
+        "Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.",
+        "Website refers to Kastell Personalberatung, accessible from https://www.kastellpersonalberatung.com",
+        "You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.",
+        "These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.",
+        "Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.",
+        "By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.",
+        "Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.",
+        "Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.",
+        "The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.",
+        "We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.",
+        "We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.",
+        "Upon termination, Your right to use the Service will cease immediately.",
+        "Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven’t purchased anything through the Service.",
+        "To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.",
+        "Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party’s liability will be limited to the greatest extent permitted by law.",
+        "The Service is provided to You “AS IS” and “AS AVAILABLE” and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.",
+        "Without limiting the foregoing, neither the Company nor any of the company’s provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.",
+        "Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.",
+        "The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.",
+        "If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.",
+        "If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.",
+        "You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a “terrorist supporting” country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.",
+        "If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.",
+        "Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party’s ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.",
+        "These Terms and Conditions may have been translated if We have made them available to You on our Service.",
+        "You agree that the original English text shall prevail in the case of a dispute.",
+        "We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days’ notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.",
+        "By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.",
+        "If you have any questions about these Terms and Conditions, You can contact us:",
+        "By email: kontakt@kastellpersonalberatung.com",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "index.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#content",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "https://www.privacypolicies.com/terms-conditions-generator/",
+          "text": "Terms and Conditions Generator",
+          "kind": "external"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        }
+      ]
+    },
+    {
+      "source_file": "site/world-connect.html",
+      "source_slug": "world-connect",
+      "canonical_path": "/leistungen/employer-branding/",
+      "title": "",
+      "meta_description": "",
+      "headings": [
+        {
+          "tag": "h6",
+          "text": "PERSONALBERATUNG"
+        },
+        {
+          "tag": "h2",
+          "text": "Employer Branding"
+        },
+        {
+          "tag": "h5",
+          "text": "Employer Branding & Recruitment-Kommunikation"
+        }
+      ],
+      "paragraphs": [
+        "Vereinbaren Sie ein Gespräch mit unseren Berater:innen.",
+        "Wir unterstützen Unternehmen dabei, als attraktive Arbeitgebermarke sichtbar zu werden und die richtigen Talente anzusprechen – mit durchdachtem Employer Branding und wirkungsvoller Recruitment-Kommunikation.",
+        "© Kastell Personalberatung. Alle Rechte vorbehalten."
+      ],
+      "links": [
+        {
+          "href": "#primary",
+          "text": "Skip to primary navigation",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "#content",
+          "text": "Skip to content",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "employers.html",
+          "text": "",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "index.html",
+          "text": "Home",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "employers.html",
+          "text": "Für Arbeitgeber",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "candidates.html",
+          "text": "Für Kandidaten",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "about-us.html",
+          "text": "Über uns",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "contact.html",
+          "text": "Kontakt",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "world-connect.html",
+          "text": "Schedule time with us",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "#wrap",
+          "text": "",
+          "kind": "fragment-or-script"
+        },
+        {
+          "href": "terms-of-use.html",
+          "text": "Terms of Use",
+          "kind": "internal-or-relative"
+        },
+        {
+          "href": "privacy-policy-2.html",
+          "text": "Privacy Policy",
+          "kind": "internal-or-relative"
+        }
+      ],
+      "media": [
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "assets/logo.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "src",
+          "src": "wp-content/uploads/2020/01/big-Picture1-300x150.png"
+        },
+        {
+          "kind": "img",
+          "attribute": "data-src",
+          "src": "wp-content/uploads/2020/01/big-Picture1-300x150.png"
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "source_key": "legacy-job-01",
+      "slug": "manager-consulting-sap-payroll-in-m-nchen-oder-remote-m-w-d",
+      "t": "Manager Consulting SAP Payroll in München oder remote (m/w/d)",
+      "loc": "München / Remote",
+      "remote": true,
+      "cat": "SAP",
+      "mod": "SAP Payroll / HCM",
+      "exp": "5+ Jahre",
+      "date": "02.07.2026"
+    },
+    {
+      "source_key": "legacy-job-02",
+      "slug": "sap-senior-consultant-im-retail-umfeld-remote-m-w-d",
+      "t": "SAP Senior Consultant im Retail-Umfeld remote (m/w/d)",
+      "loc": "Remote",
+      "remote": true,
+      "cat": "SAP",
+      "mod": "SAP Retail",
+      "exp": "5+ Jahre",
+      "date": "30.06.2026"
+    },
+    {
+      "source_key": "legacy-job-03",
+      "slug": "manager-consulting-sap-manufacturing-m-w-d",
+      "t": "Manager Consulting SAP Manufacturing (m/w/d)",
+      "loc": "Deutschland",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP Manufacturing (PP/DM)",
+      "exp": "5+ Jahre",
+      "date": "28.06.2026"
+    },
+    {
+      "source_key": "legacy-job-04",
+      "slug": "sap-basis-senior-administrator-im-rhein-neckar-kreis-m-w-d",
+      "t": "SAP-Basis Senior Administrator im Rhein-Neckar-Kreis (m/w/d)",
+      "loc": "Rhein-Neckar-Kreis",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP Basis",
+      "exp": "4-5 Jahre",
+      "date": "25.06.2026"
+    },
+    {
+      "source_key": "legacy-job-05",
+      "slug": "senior-inhouse-consultant-sap-co-ps-m-w-d-im-raum-koblenz",
+      "t": "Senior Inhouse Consultant SAP-CO/PS (m/w/d) im Raum Koblenz",
+      "loc": "Raum Koblenz",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP CO / PS",
+      "exp": "5+ Jahre",
+      "date": "24.06.2026"
+    },
+    {
+      "source_key": "legacy-job-06",
+      "slug": "senior-inhouse-consultant-sap-ewm-les-m-w-d-im-raum-koblenz",
+      "t": "Senior Inhouse Consultant SAP-EWM/LES (m/w/d) im Raum Koblenz",
+      "loc": "Raum Koblenz",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP EWM / LES",
+      "exp": "5+ Jahre",
+      "date": "24.06.2026"
+    },
+    {
+      "source_key": "legacy-job-07",
+      "slug": "senior-consultant-sap-successfactors-berlin-und-remote-m-w-d",
+      "t": "(Senior) Consultant SAP-SuccessFactors (Berlin und remote) (m/w/d)",
+      "loc": "Berlin / Remote",
+      "remote": true,
+      "cat": "SAP",
+      "mod": "SAP SuccessFactors",
+      "exp": "3-5 Jahre",
+      "date": "20.06.2026"
+    },
+    {
+      "source_key": "legacy-job-08",
+      "slug": "inhouse-consultant-sap-fi-co-im-kreis-tuttlingen-m-w-d",
+      "t": "Inhouse Consultant SAP FI/CO im Kreis Tuttlingen (m/w/d)",
+      "loc": "Kreis Tuttlingen",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP FI / CO",
+      "exp": "3-5 Jahre",
+      "date": "18.06.2026"
+    },
+    {
+      "source_key": "legacy-job-09",
+      "slug": "global-teamlead-sap-im-kreis-tuttlingen-m-w-d",
+      "t": "Global Teamlead SAP im Kreis Tuttlingen (m/w/d)",
+      "loc": "Kreis Tuttlingen",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP (Teamleitung)",
+      "exp": "7+ Jahre",
+      "date": "18.06.2026"
+    },
+    {
+      "source_key": "legacy-job-10",
+      "slug": "inhouse-consultant-sap-sd-cs-im-kreis-tuttlingen-m-w-d",
+      "t": "Inhouse Consultant SAP SD/CS im Kreis Tuttlingen (m/w/d)",
+      "loc": "Kreis Tuttlingen",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP SD / CS",
+      "exp": "3-5 Jahre",
+      "date": "16.06.2026"
+    },
+    {
+      "source_key": "legacy-job-11",
+      "slug": "lead-consultant-successfactors-ec-in-frankfurt-freiburg-k-ln-remote-m-w-d",
+      "t": "Lead Consultant SuccessFactors EC in Frankfurt/Freiburg/Köln/Remote (m/w/d)",
+      "loc": "Frankfurt / Freiburg / Köln / Remote",
+      "remote": true,
+      "cat": "SAP",
+      "mod": "SuccessFactors EC",
+      "exp": "5+ Jahre",
+      "date": "14.06.2026"
+    },
+    {
+      "source_key": "legacy-job-12",
+      "slug": "inhouse-consultant-sap-successfactors-in-linz-oder-remote-m-w-d",
+      "t": "Inhouse Consultant SAP SuccessFactors in Linz oder remote (m/w/d)",
+      "loc": "Linz / Remote",
+      "remote": true,
+      "cat": "SAP",
+      "mod": "SAP SuccessFactors",
+      "exp": "3-5 Jahre",
+      "date": "12.06.2026"
+    },
+    {
+      "source_key": "legacy-job-13",
+      "slug": "projekt-koordinator-m-w-d-im-projekt-management-office-im-ortenau-kreis",
+      "t": "Projekt Koordinator (m/w/d) im Projekt Management Office im Ortenau Kreis",
+      "loc": "Ortenau Kreis",
+      "remote": false,
+      "cat": "PMO",
+      "mod": "Projekt Management Office",
+      "exp": "3-5 Jahre",
+      "date": "11.06.2026"
+    },
+    {
+      "source_key": "legacy-job-14",
+      "slug": "fullstack-web-developer-in-dresden-m-w-d",
+      "t": "Fullstack Web Developer in Dresden (m/w/d)",
+      "loc": "Dresden",
+      "remote": false,
+      "cat": "IT",
+      "mod": "Fullstack Web Development",
+      "exp": "3-5 Jahre",
+      "date": "10.06.2026"
+    },
+    {
+      "source_key": "legacy-job-15",
+      "slug": "inhouse-consultant-sap-fs-cd-in-m-nchen-m-w-d",
+      "t": "Inhouse Consultant SAP-FS-CD in München (m/w/d)",
+      "loc": "München",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP FS-CD",
+      "exp": "3-5 Jahre",
+      "date": "08.06.2026"
+    },
+    {
+      "source_key": "legacy-job-16",
+      "slug": "sap-basis-senior-inhouse-consultant-in-m-nchen-m-w-d",
+      "t": "SAP-Basis Senior Inhouse Consultant in München (m/w/d)",
+      "loc": "München",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP Basis",
+      "exp": "5+ Jahre",
+      "date": "05.06.2026"
+    },
+    {
+      "source_key": "legacy-job-17",
+      "slug": "sap-hcm-specialist-m-w-d-im-landkreis-dillingen-bayern",
+      "t": "SAP-HCM Specialist (m/w/d) im Landkreis Dillingen /Bayern",
+      "loc": "Landkreis Dillingen / Bayern",
+      "remote": false,
+      "cat": "SAP",
+      "mod": "SAP HCM",
+      "exp": "3-5 Jahre",
+      "date": "03.06.2026"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+---
+const token = Astro.url.searchParams.get('token');
+const cmsUrl = import.meta.env.CMS_URL;
+let status = 200;
+let payload = null;
+let error = '';
+
+Astro.response.headers.set('Cache-Control', 'no-store');
+Astro.response.headers.set('X-Robots-Tag', 'noindex');
+
+if (!token) {
+  status = 400;
+  error = 'Preview-Token fehlt.';
+} else if (!cmsUrl) {
+  status = 503;
+  error = 'CMS_PREVIEW ist nicht konfiguriert.';
+} else {
+  try {
+    const response = await fetch(`${cmsUrl.replace(/\/$/, '')}/api/v1/preview/${encodeURIComponent(token)}/`, {
+      signal: AbortSignal.timeout(5000),
+    });
+    status = response.status;
+    if (response.ok) {
+      payload = await response.json();
+    } else {
+      error = 'Die Vorschau ist nicht verfügbar oder abgelaufen.';
+    }
+  } catch {
+    status = 503;
+    error = 'Das CMS ist für die Vorschau nicht erreichbar.';
+  }
+}
+
+Astro.response.status = status;
+const page = payload?.data;
+const title = page?.title ?? 'KP Vorschau';
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+    <meta name="robots" content="noindex,nofollow" />
+  </head>
+  <body>
+    <main>
+      {page ? (
+        <>
+          <p>Vorschau</p>
+          <h1>{page.title}</h1>
+          <pre>{JSON.stringify(page.fields, null, 2)}</pre>
+        </>
+      ) : (
+        <>
+          <h1>Vorschau nicht verfügbar</h1>
+          <p>{error}</p>
+        </>
+      )}
+    </main>
+  </body>
+</html>

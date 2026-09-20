@@ -1,2 +1,14 @@
 .firecrawl/
+.baseline/
+.astro/
+.vercel/
+node_modules/
+dist/
+cms-venv/
+cms/.env
+.env
+.env.*
+!.env.example
+cms/media/
+cms/static/
 __pycache__/

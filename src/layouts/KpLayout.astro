@@ -1,0 +1,141 @@
+---
+import { getSiteSettings } from '../lib/cms';
+
+interface Props {
+  title?: string;
+  description?: string;
+  splash?: boolean;
+}
+
+const { title = 'Kastell Personalberatung', description = '', splash = false } = Astro.props;
+let settings: Record<string, any> = {};
+try {
+  settings = await getSiteSettings();
+} catch {
+  // The API failure page is handled by route components; layout remains renderable.
+}
+const siteName = settings.site_name || 'Kastell Personalberatung';
+const logo = settings.full_logo?.url || settings.compact_logo?.url || '';
+const navigation = Array.isArray(settings.primary_navigation) ? settings.primary_navigation : [];
+const footerNavigation = Array.isArray(settings.footer_navigation) ? settings.footer_navigation : [];
+const socialLinks = Array.isArray(settings.social_links) ? settings.social_links : [];
+const socialIcon = (label: string) => ({ linkedin: 'in', web: '◎', instagram: '◎', xing: 'X' }[(label || '').toLowerCase()] || '↗');
+const publicPath = (value: any) => {
+  const path = value?.url_path || value || '/';
+  return path.startsWith('/home/') ? path.slice('/home'.length) : path;
+};
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <title>{title} · {siteName}</title>
+  </head>
+  <body class={splash ? 'has-splash' : ''}>
+    <slot name="splash" />
+    <div class={splash ? 'site-shell pre-splash' : 'site-shell'}>
+    <header class="site-header">
+      <a class="site-header__brand" href="/">{logo ? <img src={logo} alt={siteName} /> : siteName}</a>
+      <nav aria-label="Hauptnavigation">
+        <ul>
+          {navigation.map((item: any) => (
+            <li><a class:list={{ 'site-header__contact': item.value?.label === 'Kontakt' }} href={publicPath(item.value?.page) || item.value?.external_url || '#'}>{item.value?.label || ''}</a></li>
+          ))}
+        </ul>
+      </nav>
+    </header>
+    <main id="content"><slot /></main>
+    <footer class="site-footer">
+      <span>{settings.copyright_text || ''}</span>
+      <nav aria-label="Footer-Navigation">
+        {footerNavigation.map((item: any) => (
+          <a href={publicPath(item.value?.page) || item.value?.external_url || '#'}>{item.value?.label || ''}</a>
+        ))}
+      </nav>
+      {socialLinks.length > 0 && <nav class="site-footer__social" aria-label="Social Media">{socialLinks.map((item: any) => <a href={item.value?.url || '#'} target="_blank" rel="noopener noreferrer" aria-label={item.value?.label || 'Social Media'}><span aria-hidden="true">{socialIcon(item.value?.label || '')}</span></a>)}</nav>}
+    </footer>
+      </div>
+      {splash && <script is:inline>
+        const splash = document.querySelector('.splash-screen');
+        const shell = document.querySelector('.site-shell');
+        const video = splash?.querySelector('video');
+        let revealed = false;
+        let endTimer = null;
+        let safetyTimer = null;
+        const reveal = () => {
+          if (revealed) return;
+          revealed = true;
+          if (endTimer) window.clearTimeout(endTimer);
+          if (safetyTimer) window.clearTimeout(safetyTimer);
+          try { video?.pause(); } catch (_) {}
+          splash?.classList.add('is-complete');
+          shell?.classList.remove('pre-splash');
+          document.body.classList.remove('has-splash');
+          document.dispatchEvent(new CustomEvent('kp:intro-done'));
+        };
+        const scheduleReveal = (delay = 0) => {
+          if (revealed || endTimer) return;
+          endTimer = window.setTimeout(reveal, delay);
+        };
+        if (!video) {
+          reveal();
+        } else {
+          // Keep autoplay reliable across browsers and match the original intro flow.
+          video.muted = true;
+          video.defaultMuted = true;
+          video.playsInline = true;
+          video.addEventListener('timeupdate', () => {
+            // The source video holds its final frame, so do not wait exclusively for ended.
+            if (endTimer || !Number.isFinite(video.duration) || video.duration <= 5.5) return;
+            if (video.currentTime >= video.duration - 5.5) scheduleReveal(300);
+          });
+          video.addEventListener('ended', () => scheduleReveal(400));
+          video.addEventListener('playing', () => {
+            const duration = Number.isFinite(video.duration) && video.duration > 0 ? video.duration : 15;
+            safetyTimer = window.setTimeout(reveal, (duration + 2.5) * 1000);
+          }, { once: true });
+          video.addEventListener('error', reveal, { once: true });
+          const tryPlay = () => {
+            if (video.paused) video.play().catch(() => {});
+          };
+          video.addEventListener('loadeddata', tryPlay, { once: true });
+          video.addEventListener('canplay', tryPlay, { once: true });
+          // Last-resort guard for a stalled/unsupported media event sequence.
+          safetyTimer = window.setTimeout(reveal, 45000);
+          tryPlay();
+        }
+      </script>}
+  </body>
+</html>
+
+<style>
+  :global(*) { box-sizing: border-box; }
+  :global(body) { margin: 0; color: #012b28; font-family: 'Nunito', sans-serif; }
+  .site-shell.pre-splash { visibility: hidden; }
+  :global(.splash-screen) { position: fixed; inset: 0; z-index: 100; overflow: hidden; background: #000; transition: opacity .8s ease, visibility .8s ease; }
+  :global(.splash-screen video) { width: 100%; height: 100%; object-fit: cover; }
+  :global(.splash-screen.is-complete) { opacity: 0; visibility: hidden; pointer-events: none; }
+  .site-header, .site-footer { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 0 5vw; }
+  .site-header { min-height: 77px; border-bottom: 1px solid rgba(255,255,255,.06); background: #012b28; color: #fff; }
+  .site-header__brand { color: inherit; font-weight: 700; text-decoration: none; }
+  .site-header__brand img { display: block; width: 168px; height: auto; max-height: 63px; object-fit: contain; }
+  ul { display: flex; align-items: center; gap: clamp(1rem, 2vw, 2.25rem); margin: 0; padding: 0; list-style: none; }
+  a { color: inherit; text-decoration: none; }
+  .site-header nav a { display: inline-flex; align-items: center; min-height: 36px; font-size: clamp(.9rem, 1.15vw, 1.15rem); font-weight: 400; white-space: nowrap; }
+  .site-header nav a:not(.site-header__contact):hover { color: #e3c88f; }
+  .site-header__contact { padding: .5rem 1.4rem; border-radius: 55px; background: #fff; color: #012b28; font-weight: 600 !important; }
+  .site-header__contact:hover { background: #e3c88f; color: #012b28; }
+  .site-footer { min-height: 36px; margin-top: 0; padding-top: .4rem; padding-bottom: .4rem; border-top: 1px solid rgba(255,255,255,.12); background: #012b28; color: #fff; font-size: .7rem; }
+  .site-footer nav { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; }
+  .site-footer__social{align-items:center;gap:.45rem!important}.site-footer__social a{display:grid;width:30px;height:30px;place-items:center;border:1px solid rgba(255,255,255,.6);border-radius:50%;font-size:.76rem;font-weight:800}.site-footer__social a:hover{border-color:#e3c88f;background:#e3c88f;color:#012b28}
+  .site-footer a:hover { color: #e3c88f; }
+  @media (max-width: 900px) { .site-header { min-height: 62px; } .site-header__brand img { width: 145px; max-height: 55px; } .site-header nav a { font-size: .9rem; } }
+  @media (max-width: 700px) { .site-header, .site-footer { align-items: flex-start; flex-direction: column; padding-top: 1rem; padding-bottom: 1rem; } .site-header nav ul, .site-footer nav { flex-wrap: wrap; } .site-header__contact { padding: .6rem 1.25rem; } }
+</style>
+
